@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4977&pause=1000&color=e03c8a&background=FFFFFF00&width=300&lines=Bem-Vindo(a)!" alt="Typing SVG" /></a>
 </div>
 
-Olá! Me chamo Alessandra Cristina e sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR (3/5). 
+Olá! Me chamo Alessandra Cristina e sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR (5/5). 
 
 
 ## Conecte-se Comigo 📫
@@ -10,7 +10,6 @@ Olá! Me chamo Alessandra Cristina e sou estudante de Análise e Desenvolvimento
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e03c8a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecristina/)
 
-[![GitLab](https://img.shields.io/badge/GitLab-e03c8a?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CristinaAlessandra)
 
 
 ## Habilidades
