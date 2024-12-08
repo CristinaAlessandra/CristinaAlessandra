@@ -13,36 +13,46 @@ Olá! Me chamo Alessandra Cristina e sou estudante de Análise e Desenvolvimento
 
 
 ## Habilidades
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CristinaAlessandra&theme=bear&layout=compact&bg_color=000&border_color=e03c8a&&text_color=FFF)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CristinaAlessandra&theme=bear&layout=compact&bg_color=000&border_color=e03c8a&text_color=FFF)
 
-### Linguagens de Marcação e Estilo
-![HTML](https://img.shields.io/badge/HTML-e03c8a?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS](https://img.shields.io/badge/CSS-e03c8a?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![Markdown](https://img.shields.io/badge/Markdown-e03c8a?style=for-the-badge&logo=markdown)
+---
 
-
-### Linguagens de Programação
+### **Linguagens de Programação**
 ![JavaScript](https://img.shields.io/badge/JavaScript-e03c8a?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-e03c8a?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-e03c8a.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-e03c8a?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-e03c8a?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-e03c8a?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Bibliotecas e Frameworks
-![Bootstrap](https://img.shields.io/badge/-boostrap-e03c8a?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-### Banco de Dados
+### **Bibliotecas e Frameworks**
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-e03c8a?style=for-the-badge&logo=.net&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-e03c8a?style=for-the-badge&logo=.net&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-e03c8a?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![React.js](https://img.shields.io/badge/React-e03c8a?style=for-the-badge&logo=react&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-e03c8a?style=for-the-badge&logo=jquery&logoColor=white)
+
+---
+
+### **Banco de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-e03c8a?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Sistema Operacional
-![Windows](https://img.shields.io/badge/Windows-e03c8a?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-e03c8a?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
-### Ferramentas
-![Git](https://img.shields.io/badge/GIT-e03c8a?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-e03c8a?style=for-the-badge&logo=figma&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-e03c8a?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### **Ferramentas**
+![Git](https://img.shields.io/badge/Git-e03c8a?style=for-the-badge&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-e03c8a?style=for-the-badge&logo=figma&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-e03c8a?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+### **Metodologias Ágeis**
+- Scrum  
+- XP (Extreme Programming)  
+- Kanban
+
+---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristinaAlessandra&theme=bear&bg_color=000&border_color=e03c8a&&icon_color=30A3DC&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristinaAlessandra&theme=bear&bg_color=000&border_color=e03c8a&icon_color=30A3DC&text_color=FFF)
+
